@@ -62,14 +62,14 @@ csjobs.ca is a job board built specifically for Canadian CS students. Unlike gen
 
 ## Scraped Companies Include
 
-Google · Shopify · Amazon · Microsoft · Meta · Stripe · Apple · Salesforce · Cohere · Airbnb · Netflix · Uber · RBC · TD Bank · LinkedIn · Manulife · Deloitte · Wattpad · Jobber · Datadog · MongoDB · HashiCorp · Scotiabank · CIBC · Bell · Accenture · Intuit · PwC · KPMG · Manulife · Sun Life · and 150+ more
+Google · Shopify · Amazon · Microsoft · Meta · Stripe · Apple · Salesforce · Cohere · Airbnb · Netflix · Uber · RBC · TD Bank · LinkedIn · Manulife · Deloitte · Wattpad · Jobber · Datadog · MongoDB · HashiCorp · Scotiabank · CIBC · Bell · Accenture · Intuit · PwC · KPMG · Sun Life · and 150+ more
 
 ---
 
 ## Screenshots
 
 ### Landing Page
-![Landing page hero showing AI job matching](https://csjobs.ca/logos/logo.png)
+![csjobs.ca landing page](landing.png)
 
 > Live demo at [csjobs.ca](https://csjobs.ca)
 
@@ -88,7 +88,7 @@ Google · Shopify · Amazon · Microsoft · Meta · Stripe · Apple · Salesforc
 
 ## Contact
 
-**Email:** contact@csjobs.ca
+**Email:** contact@csjobs.ca  
 **Site:** [csjobs.ca](https://csjobs.ca)
 
 ---
